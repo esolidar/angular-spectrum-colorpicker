@@ -1,5 +1,5 @@
 {
-  "name": "angular-spectrum-colorpicker",
+  "name": "@esolidar/angular-spectrum-colorpicker",
   "version": "1.0.0",
   "description": "Angular directive for a colorpicker, that bases on http://bgrins.github.io/spectrum/",
   "homepage": "https://github.com/esolidar/angular-spectrum-colorpicker",
