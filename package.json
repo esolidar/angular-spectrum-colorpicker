@@ -27,7 +27,7 @@
     "angular": "^1.2.8"
   },
   "devDependencies": {
-    "bower": "~1.7.7",
+    "bower": "~1.8.8",
     "coffee-script": "~1.10.0",
     "connect-less": "^0.3.1",
     "glob": "~6.0.4",
