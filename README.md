@@ -137,37 +137,12 @@ Grunt Tasks
  ```
 
 _See Gruntfile.js and tasks/options for all task details._
-
-Version history
----------------
-* 1.4.1
- * Attribute mode (thanks @fernandopasik)
-* 1.4.0
- * demo fixes (thanks @mprinc)
- * destroy event fixes (thanks @tomaszkrym)
- * palette attribute option (thanks @dmnn)
- * possibility to disable eventing (thanks @dmnn)
- * Update to spectrum 1.7.0
-* 1.3.4
- * re-adds `$scope.$apply` around model value change, because it caused problems
-* 1.3.3
- * refactor triggers to work with delayed DOM
-* 1.3.2
- * not released (grunt release fup)
-* 1.3.1
- * Add handling of disabled attribute. See #15.
-* 1.3.0
- * reintegrate with [Jimdo/angular-directive-seed](https://github.com/Jimdo/angular-directive-seed).
- * Add eventing (partially backwards-incompatible due to how the triggering of `onChange` is handled). See #21.
-* 1.2.0
- * backwards incompatible change of `format="hex"` to `format="'hex'"` in order to allow changing the output format after initializing. See #12.
-
 LICENSE
 -------
 
 > The MIT License
 >
-> Copyright (c) 2014 Jimdo GmbH http://jimdo.com
+> Copyright (c) 2014 Miguel Vieira http://www.miguelvieira.com.pt
 >
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
