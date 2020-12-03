@@ -63,5 +63,8 @@
     "phantomjs-prebuilt": "^2.1.4",
     "protractor": "~3.0.0",
     "requirejs": "^2.1.22"
+  },
+  "bugs": {
+    "url": "https://github.com/Jimdo/angular-spectrum-colorpicker/issues"
   }
 }
